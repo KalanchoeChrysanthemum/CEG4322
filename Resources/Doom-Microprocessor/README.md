@@ -1,1 +1,0 @@
-# 16-Bit Logic-Diagram Level Microprocessor Schematic
