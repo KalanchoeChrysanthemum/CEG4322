@@ -10,6 +10,9 @@ The CPU consisted of three main components:
 - RAM: Memory
 
 
-Teammates:
-- *Jeremiah Carter*
-- *Logan Current*
+*Teammates*:
+- Jeremiah Carter
+- [Logan Current](https://github.com/kingANGRYKIWI)
+
+
+[Demo Video Of The CPU Running The Fibonacci Sequence](https://www.youtube.com/watch?v=TlxvIQwvaOU)
